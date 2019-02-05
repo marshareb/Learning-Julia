@@ -1,4 +1,4 @@
-#Background
+# Background
 
 One common way for software specifications such as HTML to specify colors is with a hexadecimal string. For instance the color aquamarine is represented by the string "#7FFFD4". Here's how the string breaks down:
 
@@ -12,6 +12,6 @@ One common way for software specifications such as HTML to specify colors is wit
 
 All three channel values must be an integer between 0 (minimum brightness) and 255 (maximum brightness). In all cases the hex values are two digits each, including a leading 0 if necessary. See the Wikipedia page for more examples, and a link for how to convert a number to hexadecimal.
 
-#Challenge
+# Challenge
 
 Given three integers between 0 and 255, corresponding to the red, green, and blue channel values of a color, find the hex string for that color. You may use anything built into your programming language, such as for base conversion, but you can also do it manually.
