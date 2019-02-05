@@ -9,8 +9,8 @@ balanced("xyxxxxyyyxyxxyxxyy") => false
 balanced("") => true
 balanced("x") => false
 ```
-
-#Optional bonus
+ 
+# Optional bonus
 
 Given a string containing only lowercase letters, find whether every letter that appears in the string appears the same number of times. Don't forget to handle the empty string ("") correctly!
 
