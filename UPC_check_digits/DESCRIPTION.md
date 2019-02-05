@@ -30,7 +30,7 @@ For example, given the first 11 digits of a UPC 03600029145, you can compute the
 
 So the check digit is 2, and the complete UPC is 036000291452.
 
-#Challenge
+# Challenge
 
 Given an 11-digit number, find the 12th digit that would make a valid UPC. You may treat the input as a string if you prefer, whatever is more convenient. If you treat it as a number, you may need to consider the case of leading 0's to get up to 11 digits. That is, an input of 12345 would correspond to a UPC start of 00000012345.
 
