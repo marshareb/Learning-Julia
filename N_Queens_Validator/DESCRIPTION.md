@@ -14,7 +14,7 @@ In chess notation, the squares with queens in this solution are called a2, b4, c
 
 Solving the N queens problem was #25 (difficult) on r/dailyprogrammer, but you don't need to actually solve it for today's challenge.
 
-#Challenge
+# Challenge
 
 Given an array of 8 integers between 1 and 8, determine whether it represents a valid 8 queens solution.
 
